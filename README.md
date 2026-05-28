@@ -28,18 +28,20 @@
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats (Stable Version)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SoniLimbu&theme=tokyo-night" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=SoniLimbu&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+
 </p>
 
 ---
 
-## 📈 GitHub Contributions
+## 📈 GitHub Activity
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SoniLimbu&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SoniLimbu&theme=tokyo-night" />
 </p>
 
 ---
