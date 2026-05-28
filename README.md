@@ -1,16 +1,74 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**SoniLimbu/SoniLimbu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Soni%20Limbu&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-Here are some ideas to get you started:
+# 👋 Hi, I'm Soni Limbu
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Django & Frontend Developer in Progress
+
+</div>
+
+---
+
+## 🚀 About Me
+
+- 🌱 Learning Django and modern frontend development  
+- 💻 Passionate about building web applications  
+- 🎯 Improving problem-solving and coding skills  
+- 📚 Learning by building real projects  
+- 🚀 Exploring backend + frontend technologies  
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,django,java,mysql,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Activity (STABLE FIX)
+
+<p align="center">
+
+<!-- Official GitHub stats (most stable option with caching) -->
+<img src="https://github-readme-stats.vercel.app/api?username=SoniLimbu&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+
+</p>
+
+---
+
+## 📈 GitHub Contributions
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SoniLimbu&theme=tokyo-night" />
+</p>
+
+---
+
+## 📫 Connect with Me
+
+<p align="center">
+
+<a href="https://github.com/SoniLimbu">
+  <img src="https://skillicons.dev/icons?i=github" height="50"/>
+</a>
+
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SoniLimbu&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+<div align="center">
+
+⭐ Thanks for visiting my profile! ⭐
+
+</div>
