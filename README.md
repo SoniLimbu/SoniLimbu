@@ -28,13 +28,10 @@
 
 ---
 
-## 📊 GitHub Activity (STABLE FIX)
+## 📊 GitHub Activity
 
 <p align="center">
-
-<!-- Official GitHub stats (most stable option with caching) -->
-<img src="https://github-readme-stats.vercel.app/api?username=SoniLimbu&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SoniLimbu&theme=tokyo-night" />
 </p>
 
 ---
