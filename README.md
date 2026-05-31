@@ -2,19 +2,19 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Soni%20Limbu&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 # 👋 Hi, I'm Soni Limbu
-### 💻 Django & Frontend Developer in Progress
+### 🚀 Aspiring Full Stack Developer | Python & Django Enthusiast
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🌱 Currently learning Django and modern frontend development
-- 💻 I love building web applications from scratch
-- 🎯 Always working on improving my problem-solving skills
-- 📚 I learn best by building real projects
-- 🚀 Exploring both backend and frontend technologies
+- 🎓 Actively learning full stack web development
+- 🐍 Building projects with Python, Django and JavaScript
+- 💡 Interested in backend development and REST APIs
+- 🔨 I learn best by building real world projects
+- 🤝 Looking for an internship opportunity to grow and contribute
 
 ---
 
@@ -26,12 +26,21 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🔨 Things I've Built
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [Futsal Booking System](https://github.com/SoniLimbu/futsal-booking-system) | Users can book courts and manage schedules | Django, JavaScript |
+| [Guff-gram](https://github.com/SoniLimbu/Guff-gram) | A social media platform I built from scratch | HTML, CSS, Python |
+| [Kurakani](https://github.com/SoniLimbu/kurakani) | A real time chat app | Python, Django |
+| [Photo Gallery](https://github.com/SoniLimbu/photo_gallery) | Simple photo gallery app | Python |
+
+---
+
+## 💬 Most Used Languages
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SoniLimbu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-  &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoniLimbu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoniLimbu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 ---
@@ -39,15 +48,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SoniLimbu&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SoniLimbu&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://streak-stats.demolab.com?user=SoniLimbu&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
