@@ -18,6 +18,11 @@
 
 ---
 
+## 🚀 Live Portfolio
+👉 Visit my portfolio:
+https://sonilimbu.netlify.app/
+https://soni-protfolio.netlify.app/
+
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -34,6 +39,8 @@
 | [Guff-gram](https://github.com/SoniLimbu/Guff-gram) | A social media platform I built from scratch | HTML, CSS, Python |
 | [Kurakani](https://github.com/SoniLimbu/kurakani) | A real time chat app | Python, Django |
 | [Photo Gallery](https://github.com/SoniLimbu/photo_gallery) | Simple photo gallery app | Python |
+| [weather - app ](https://github.com/SoniLimbu/weather-app) | A simple weather application built using HTML, CSS, and JavaScript. | java scripts |
+| [todo - app ](https://github.com/SoniLimbu/todo-app) | A simple To-Do App built using HTML, CSS, and JavaScript.| java script css html|
 
 ---
 
