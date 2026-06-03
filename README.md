@@ -29,6 +29,7 @@ https://weather-dashboard10.netlify.app/
 
 https://app-todo11.netlify.app/
 
+https://astheticscalculator.netlify.app/
 ## 🛠️ Tech Stack
 
 <p align="center">
