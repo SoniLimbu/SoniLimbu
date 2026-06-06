@@ -52,7 +52,6 @@ https://astheticscalculator.netlify.app/
 ---
 
 
-## 🔥 GitHub Streak
 
 ## 🔥 GitHub Streak
 
