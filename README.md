@@ -21,6 +21,8 @@
 ## 🚀 Live Portfolio
 👉 Visit my portfolio:
 
+https://soni-prot-folio.netlify.app/
+
 https://sonilimbu.netlify.app/
 
 https://soni-protfolio.netlify.app/
