@@ -23,10 +23,6 @@
 
 https://soni-prot-folio.netlify.app/
 
-https://sonilimbu.netlify.app/
-
-https://soni-protfolio.netlify.app/
-
 https://weather-dashboard10.netlify.app/
 
 https://app-todo11.netlify.app/
